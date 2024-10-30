@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,futubull.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,fuckcdn.top
+DOMAIN-SUFFIX,msftncsi.com
 IP-CIDR,170.106.62.0/22,no-resolve
 
 # SG IP
