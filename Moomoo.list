@@ -70,6 +70,9 @@ DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,futubull.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,myqcloud.com
 IP-CIDR,170.106.62.0/22,no-resolve
 
 # SG IP
